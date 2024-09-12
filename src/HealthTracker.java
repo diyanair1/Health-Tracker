@@ -6,7 +6,6 @@
  * @filename    HealthTracker.java
  * @author      dnair
  * @version     1.0
- * @see         https://tdsb.elearningontario.ca/content/enforced/23454724-EL_CS_ICS3UE-973555_998940_2223/ICS3UU05/ICS3UU05A01/_content.html?ou=23454724&d2l_body_type=3
  */
 
 public class HealthTracker extends javax.swing.JFrame {
